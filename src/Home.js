@@ -27,15 +27,15 @@ function Home() {
         </div>
         <div className="home__row">
           <Product
-            title="The American Dream Is Not Dead: (But Populism Could Kill It) (New Threats to Freedom Series) "
+            title="Fossil Men's Copeland Stainless Steel  "
             price={90.2}
-            image="https://images-na.ssl-images-amazon.com/images/I/41JYNw09fSL._SX355_BO1,204,203,200_.jpg"
+            image="https://images-na.ssl-images-amazon.com/images/I/81E2IhbmPBL._AC_UX466_.jpg"
             rating={3}
           />
           <Product
-            title="The Business Book: Big Ideas Simply Explained"
+            title="New Apple iPhone 12 (64GB, Black) [Locked]"
             price={90.2}
-            image="https://images-na.ssl-images-amazon.com/images/I/611hMKgEYCL._SX412_BO1,204,203,200_.jpg"
+            image="https://m.media-amazon.com/images/I/81hCytKTUTL.jpg"
             rating={3}
           />
           <Product
