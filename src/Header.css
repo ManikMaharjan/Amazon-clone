@@ -8,10 +8,10 @@
   z-index: 100;
 }
 .header_logo {
-  width: 60px;
+  width: 100px;
   object-fit: contain;
   margin: 0 20px;
-  margin-top: 5px;
+  margin-top: 10px;
 }
 .header_search {
   display: flex;
